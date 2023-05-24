@@ -1,0 +1,12 @@
+channels:
+- conda-forge
+dependencies:
+- gdal=3.6.1
+- ipykernel
+- jupytext=1.14.4
+- matplotlib=3.6.2
+- pandoc=2.19.2
+- pyright=1.1.293
+- python=3.10
+- rasterio=1.3.4
+name: jupyter-emacs
